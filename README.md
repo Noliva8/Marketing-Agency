@@ -1,4 +1,28 @@
-# Marketing-Agency
-In this website, the client asked me to improve its code so that the website gets higher ranks on google search engine (SEO).
 
- content structure is logical and understandable, aiding screen readers and assistive technologies
+# Marketing-Agency 
+
+
+
+# 📖 codebase that follows accessibility standards
+
+
+To achieve this we make sure:
+
+the webpage meets accessibility standards
+HTML elements are semantic 
+ Review the structure of the HTML elements
+ find that the elements follow a logical structure independent of styling and positioning
+view the icon and image elements
+ find accessible alt attributes
+ view the heading attributes
+they fall in sequential order
+ view the title element
+THEN I find a concise, descriptive title
+
+
+Screenshot image available in image folder.
+
+
+
+
+
